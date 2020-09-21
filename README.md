@@ -1,0 +1,1 @@
+# patched-nerd-font-Fira-Code-Nerd-Font
